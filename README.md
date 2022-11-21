@@ -1,4 +1,4 @@
-# Prework Study Guide Webwage
+# Prework Study Guide Webpage
 
 ## Description
 This project was created as a resource for myself and others who are also beginning their journey into the world of web development.
